@@ -73,6 +73,7 @@ OCR API로 추출한 텍스트들을 한 줄로 직렬화하고, 각 텍스트�
 └─ README.md
 ```
 ## 참고 자료
+- [Wrap up report & 발표자료](https://www.notion.so/c2b598742b1b4339b8dc8ec9fad28d02)
 - [https://openreview.net/pdf?id=SJgjf695UB](https://openreview.net/pdf?id=SJgjf695UB)
 - [https://github.com/monologg/HanBert-Transformers](https://github.com/monologg/HanBert-Transformers)
 - [https://wikidocs.net/24682](https://wikidocs.net/24682)
