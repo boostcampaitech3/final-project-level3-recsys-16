@@ -69,6 +69,11 @@ OCR API로 추출한 텍스트들을 한 줄로 직렬화하고, 각 텍스트�
 |      └─ utils.py
 ├─ md_res/ # markdown resource 저장 폴더
 |      └─ *.png
+├─ rule_based_model/ # Rule 기반 모델 구현 폴더
+|      ├─ file_name.py
+|      ├─ metric.py
+|      ├─ rule_based_model.py
+|      └─ serialize.py
 ├─ .gitignore
 └─ README.md
 ```
