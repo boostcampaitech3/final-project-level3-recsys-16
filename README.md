@@ -29,7 +29,7 @@ OCR API로 추출한 텍스트들을 한 줄로 직렬화하고, 각 텍스트�
 
 ### 서비스 시연
 <img src="md_res/5.png" width="500">
-- [https://www.youtube.com/watch?v=mcujO4PtVZE](시연 영상)
+- [시연 영상](https://www.youtube.com/watch?v=mcujO4PtVZE)
 
 ## 팀 소개
 | [ ![구창회](https://avatars.githubusercontent.com/u/63918561?v=4) ](https://github.com/sonyak-ku) | [ ![김지원](https://avatars.githubusercontent.com/u/97625330?v=4) ](https://github.com/Jiwon1729) | [ ![전민규](https://avatars.githubusercontent.com/u/85151359?v=4) ](https://github.com/alsrb0607) | [ ![정준우](https://avatars.githubusercontent.com/u/39089969?v=4) ](https://github.com/ler0n) |
